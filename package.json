@@ -8,6 +8,10 @@
     "preview": "vite preview",
     "start": "node server.js"
   },
+  "engines": {
+    "npm": "8.1.2",
+    "node": "16.13.2"
+  },
   "dependencies": {
     "react": "^17.0.2",
     "react-dom": "^17.0.2"
